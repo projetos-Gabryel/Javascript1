@@ -1,0 +1,1 @@
+var num1=parseInt(prompt('digite o num 1')
